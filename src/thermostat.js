@@ -43,7 +43,7 @@ Thermostat.prototype.getColour = function() {
     return "green";
   } else {
     if (this.temp < 25) {
-      return "yellow";
+      return "orange";
     } else {
       return "red";
     }

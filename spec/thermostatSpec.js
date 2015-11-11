@@ -69,10 +69,4 @@ describe("thermostat logic", function() {
     expect(thermostat.getColour()).toEqual('yellow');
   });
 
-
-
-
-
-
-
 });
